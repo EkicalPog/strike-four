@@ -130,9 +130,9 @@ def run_connect_four(screen, assets, difficulty, draw_fps):
     # to make hard mode a little fairer
     def should_use_bomb():
         if difficulty == "hard":
-            return random.random() < 0.3  #30%
+            return random.random() < 0.1  #30%
         else:
-            return random.random() < 0.1  #10%
+            return random.random() < 0.05  #10%
 
     use_bomb_next = should_use_bomb
 
