@@ -72,11 +72,11 @@ def get_ai_move(board, is_valid_location, get_next_open_row, drop_piece, winning
                 threat_cols.append(col)
 
         # chance to block if player has next winning move
-        if threat_cols and random.random() < 0.6:
+        if threat_cols and random.random() < 0.8:
             return random.choice(threat_cols)
 
         # if not fuck off
-        if 3 in valid_locations and random.random() < 0.6:
+        if 3 in valid_locations and random.random() < 0.2:
             return 3
 
         return random.choice(valid_locations)
