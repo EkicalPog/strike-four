@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Options.png">
+	<!-- Created with Adobe Animate version 24.0.9.74 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hover_options0000" x="0" y="0" width="301" height="78"/>
+	<SubTexture name="normal_options0000" x="0" y="78" width="301" height="72"/>
+</TextureAtlas>

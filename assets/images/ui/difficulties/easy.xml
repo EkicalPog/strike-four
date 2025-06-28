@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="easy.png">
+	<!-- Created with Adobe Animate version 24.0.9.74 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="easy hover0000" x="0" y="0" width="182" height="67" frameX="-3" frameY="-4" frameWidth="187" frameHeight="73"/>
+	<SubTexture name="easy hover0001" x="182" y="0" width="182" height="70" frameX="-3" frameY="-3" frameWidth="187" frameHeight="73"/>
+	<SubTexture name="easy hover0002" x="0" y="70" width="184" height="73" frameX="0" frameY="0" frameWidth="187" frameHeight="73"/>
+	<SubTexture name="easy hover0003" x="184" y="70" width="180" height="64" frameX="-6" frameY="-5" frameWidth="187" frameHeight="73"/>
+	<SubTexture name="easy hover0004" x="182" y="0" width="182" height="70" frameX="-5" frameY="-3" frameWidth="187" frameHeight="73"/>
+	<SubTexture name="easy idle0000" x="0" y="143" width="174" height="56" frameX="-2" frameY="0" frameWidth="176" frameHeight="57"/>
+	<SubTexture name="easy idle0001" x="0" y="143" width="174" height="56" frameX="-2" frameY="0" frameWidth="176" frameHeight="57"/>
+	<SubTexture name="easy idle0002" x="0" y="143" width="174" height="56" frameX="-2" frameY="0" frameWidth="176" frameHeight="57"/>
+	<SubTexture name="easy idle0003" x="0" y="143" width="174" height="56" frameX="-2" frameY="0" frameWidth="176" frameHeight="57"/>
+	<SubTexture name="easy idle0004" x="174" y="143" width="176" height="55" frameX="0" frameY="-2" frameWidth="176" frameHeight="57"/>
+	<SubTexture name="easy idle0005" x="174" y="143" width="176" height="55" frameX="0" frameY="-2" frameWidth="176" frameHeight="57"/>
+	<SubTexture name="easy idle0006" x="174" y="143" width="176" height="55" frameX="0" frameY="-2" frameWidth="176" frameHeight="57"/>
+</TextureAtlas>

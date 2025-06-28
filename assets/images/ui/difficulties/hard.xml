@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hard.png">
+	<!-- Created with Adobe Animate version 24.0.9.74 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hard hover0000" x="0" y="0" width="208" height="84"/>
+	<SubTexture name="hard hover0001" x="208" y="0" width="208" height="84"/>
+	<SubTexture name="hard hover0002" x="0" y="84" width="208" height="84"/>
+	<SubTexture name="hard hover0003" x="0" y="0" width="208" height="84"/>
+	<SubTexture name="hard hover0004" x="208" y="84" width="208" height="84"/>
+	<SubTexture name="hard idle0000" x="0" y="168" width="181" height="58" frameX="-3" frameY="0" frameWidth="184" frameHeight="58"/>
+	<SubTexture name="hard idle0001" x="0" y="168" width="181" height="58" frameX="-3" frameY="0" frameWidth="184" frameHeight="58"/>
+	<SubTexture name="hard idle0002" x="0" y="168" width="181" height="58" frameX="-3" frameY="0" frameWidth="184" frameHeight="58"/>
+	<SubTexture name="hard idle0003" x="0" y="168" width="181" height="58" frameX="-3" frameY="0" frameWidth="184" frameHeight="58"/>
+	<SubTexture name="hard idle0004" x="181" y="168" width="183" height="58" frameX="0" frameY="0" frameWidth="184" frameHeight="58"/>
+	<SubTexture name="hard idle0005" x="181" y="168" width="183" height="58" frameX="0" frameY="0" frameWidth="184" frameHeight="58"/>
+	<SubTexture name="hard idle0006" x="181" y="168" width="183" height="58" frameX="0" frameY="0" frameWidth="184" frameHeight="58"/>
+</TextureAtlas>

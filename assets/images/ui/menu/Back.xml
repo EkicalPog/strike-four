@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Back.png">
+	<!-- Created with Adobe Animate version 24.0.9.74 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hover_back0000" x="0" y="0" width="53" height="30"/>
+	<SubTexture name="normal_back0000" x="0" y="30" width="53" height="30"/>
+</TextureAtlas>

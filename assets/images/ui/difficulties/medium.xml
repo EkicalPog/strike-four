@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="medium.png">
+	<!-- Created with Adobe Animate version 24.0.9.74 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="medium hover0000" x="0" y="0" width="285" height="71" frameX="-4" frameY="-1" frameWidth="289" frameHeight="72"/>
+	<SubTexture name="medium hover0001" x="0" y="71" width="286" height="71" frameX="0" frameY="0" frameWidth="289" frameHeight="72"/>
+	<SubTexture name="medium hover0002" x="0" y="142" width="285" height="71" frameX="-2" frameY="0" frameWidth="289" frameHeight="72"/>
+	<SubTexture name="medium hover0003" x="0" y="213" width="286" height="70" frameX="-2" frameY="0" frameWidth="289" frameHeight="72"/>
+	<SubTexture name="medium hover0004" x="0" y="283" width="285" height="68" frameX="-1" frameY="-3" frameWidth="289" frameHeight="72"/>
+	<SubTexture name="medium idle0000" x="0" y="351" width="281" height="59" frameX="0" frameY="0" frameWidth="281" frameHeight="60"/>
+	<SubTexture name="medium idle0001" x="0" y="351" width="281" height="59" frameX="0" frameY="0" frameWidth="281" frameHeight="60"/>
+	<SubTexture name="medium idle0002" x="0" y="351" width="281" height="59" frameX="0" frameY="0" frameWidth="281" frameHeight="60"/>
+	<SubTexture name="medium idle0003" x="0" y="351" width="281" height="59" frameX="0" frameY="0" frameWidth="281" frameHeight="60"/>
+	<SubTexture name="medium idle0004" x="0" y="410" width="280" height="60" frameX="0" frameY="0" frameWidth="281" frameHeight="60"/>
+	<SubTexture name="medium idle0005" x="0" y="410" width="280" height="60" frameX="0" frameY="0" frameWidth="281" frameHeight="60"/>
+	<SubTexture name="medium idle0006" x="0" y="410" width="280" height="60" frameX="0" frameY="0" frameWidth="281" frameHeight="60"/>
+</TextureAtlas>
